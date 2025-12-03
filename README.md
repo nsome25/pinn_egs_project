@@ -103,3 +103,9 @@ This project explicitly **quantifies and demonstrates this instability**.
 
 ## Repository Structure
 
+## How to Run
+
+### Clone the repository
+```bash
+git clone https://github.com/nsome25/pinn_egs_project.git
+cd pinn_egs_project
